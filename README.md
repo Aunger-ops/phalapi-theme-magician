@@ -1,11 +1,11 @@
 # phalapi-theme-magician
-应用于Phaliapi框架的文档主题,phalapi-theme-magician
+应用于Phaliapi框架的文档主题,phalapi-theme-magician📺
 
-##功能支持
+## 功能支持
 1. 全套原装主题能用的功能
 2. 可自定义左菜单列表图标
 
-##使用方法
+## 使用方法
 
 直接将src目录上传覆盖到根目录即可。
 
@@ -21,7 +21,7 @@
  * @icon fa fa-star text-success
  */
 ```
-可支持fontawesome图标
+可支持fontawesome图标🏷️
 
 可选颜色：danger,success,warning,default,info,primary,secondary
 
