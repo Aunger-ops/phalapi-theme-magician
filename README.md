@@ -9,8 +9,6 @@
 
 直接将src目录上传覆盖到根目录即可。
 
-若需要使用自定义图标功能，还需将仓库目录下`ApiList.php`上传覆盖至`.\vendor\phalapi\kernal\src\Helper\ApiList.php`
-
 在接口服务声明下使用注释
 
 ```
